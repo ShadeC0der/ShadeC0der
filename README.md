@@ -38,9 +38,3 @@ Apasionado por el desarrollo web y las nuevas tecnologías, siempre en constante
 - ☕ **Java** - Mejorar en programación orientada a objetos
 - 🚀 **React** - Dominar el ecosistema frontend
 - 📚 **Bases de Datos** - Optimización con PostgreSQL
-
-## 📫 Contáctame
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/shadec0der](https://www.linkedin.com/in/christian-manuel-guti%C3%A9rrez-martinez-06638822a/))
-
----
