@@ -3,7 +3,7 @@ Apasionado por el desarrollo web y las nuevas tecnologías, siempre en constante
 
 ---
 
-## 🛠️ Tecnologías que me estoy perfeccionando
+## 🛠️ Tecnologías que estoy perfeccionando
 ### Frontend & Web
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
