@@ -26,7 +26,7 @@ Apasionado por el desarrollo web y las nuevas tecnologías, siempre en constante
 
 ## 📚 Formación Académica
 
-- 🎓 **Ingeniería Informática** - Universidad (2º año de 4)
+- 🎓 **Ingeniería Informática** - Universidad (En curso)
 - 📖 **Técnico Superior** - 2 años completados
 - 💼 **Experiencia Laboral** - 1 año
 
@@ -48,11 +48,3 @@ Apasionado por el desarrollo web y las nuevas tecnologías, siempre en constante
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/shadec0der](https://www.linkedin.com/in/christian-manuel-guti%C3%A9rrez-martinez-06638822a/))
 
 ---
-
-<div align="center">
-
-### 🌱 Aprendiendo y creciendo día a día
-
-![Profile Views](https://komarev.com/ghpvc/?username=ShadeC0der&color=brightgreen)
-
-</div>
