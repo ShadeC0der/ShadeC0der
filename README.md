@@ -1,7 +1,4 @@
 # 👋 ¡Hola! Soy Christian (ShadeC0der)
-
-## 🎓 Estudiante de Ingeniería Informática
-
 Apasionado por el desarrollo web y las nuevas tecnologías, siempre en constante aprendizaje.
 
 ---
